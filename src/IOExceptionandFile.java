@@ -630,7 +630,7 @@ class GFG
 { // Fundamental driver technique
     public static void main(String[] args) //
     {
-        attempt
+        try
         {
             FileReader fr = new FileReader("gfgInput.txt");
             // Creating a FileWriter object
